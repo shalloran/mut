@@ -4,6 +4,6 @@ MUT: Malicious and advertising URL Training pipelines and frameworks
 
 MUT is a series of processing pipelines and frameworks for ingesting URLs, extracting features, and performing classification.
 
-The jupyter notebook `parsing.ipynb` contains the logic for parsing different types of lists available online, and creating a massive `conglom-labeled.csv` list at the end. The logic is complete here, but more lists could be added in the future. This work is done as of 5 APRIL 2024.
+The jupyter notebook `x0-parsing.ipynb` contains the logic for parsing different types of lists available online, and creating a massive `conglom-labeled.csv` list at the end. The logic is complete here, but more lists could be added in the future. I hope you will contribute to this work if you are interested!
 
 The datasets folder contains pre-processed lists and labeled datasets. The `conglom-labeled.csv` is a concatenation of all the lists, and the `easylist-ads-labeled.csv`, `easylist-tracking-labeled.csv`, `malicious-phish-labeled.csv`, `malware-labeled.csv`, and `yoyo-labeled.csv` are the individual lists.
