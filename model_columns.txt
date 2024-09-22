@@ -1,3 +1,4 @@
+Classification
 Lexical_domain
 Lexical_domainNoPrefix
 Lexical_domainLength
@@ -15,5 +16,5 @@ Descriptive_numPathComponents
 Descriptive_filename
 Descriptive_fileNamePresent
 Descriptive_fileExtension
-Descriptive_isIpAddress
+Descriptive_isIpAdress
 Descriptive_fileExecutable
